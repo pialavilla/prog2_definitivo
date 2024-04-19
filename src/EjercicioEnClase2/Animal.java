@@ -46,6 +46,7 @@ public class Animal {
     public void hacerRuido(){
     }
     public void  comer(){
+        System.out.println("hola");
     }
     public void dormir(){
     }
